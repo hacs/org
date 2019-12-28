@@ -1,0 +1,1 @@
+The HACS logo was contributed by [KevDoy](https://github.com/KevDoy) in https://github.com/hacs/documentation/pull/4
