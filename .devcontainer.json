@@ -1,0 +1,4 @@
+{
+	"name": "hacs/org",
+	"image": "mcr.microsoft.com/devcontainers/base:bullseye"
+}
